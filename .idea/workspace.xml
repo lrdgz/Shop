@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="80a9c13b-2980-44f6-bb0f-a82a4f4373ff" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -149,7 +148,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1583690773957</updated>
-      <workItem from="1583690777788" duration="837000" />
+      <workItem from="1583690777788" duration="2218000" />
     </task>
     <servers />
   </component>
@@ -165,9 +164,9 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="444" y="243" key="com.intellij.ide.util.TipDialog/0.0.1536.834@0.0.1536.834" timestamp="1583690778603" />
-    <state x="814" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1583691491907">
+    <state x="814" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1583692226398">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="814" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1583691491907" />
+    <state x="814" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1583692226398" />
   </component>
 </project>
